@@ -30,7 +30,7 @@ body {
 }
 
 .circle {
-    background-image: url('assets/profile.png');
+    background-image: url('profile.png');
     background-size: cover;
     background-position: center;
     width: 120px;
