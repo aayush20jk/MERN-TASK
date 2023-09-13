@@ -1,0 +1,37 @@
+h1 {
+    color: orangered;
+    font-size: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h3{
+    font-size: 30px;
+    text-align: center;
+  
+  }
+  
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 3px solid black;
+    width: 40%;
+  }
+  
+  th {
+    border: 3px solid black;
+    padding: 20px;
+    background-color: orangered;
+    color: white;
+  }
+  
+  tr {
+    border: 3px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  td {
+    border: 3px solid black;
+    padding: 10px;
+  }
